@@ -1,4 +1,5 @@
 # Practical 04
+README
 # Python Code Projects
 
 Author: Vivek Dobariya  
@@ -169,7 +170,3 @@ To maintain this repository properly:
    ```
    git push origin feature/total_income
    ```
-4. **Document Changes:** Update the `README.md` file whenever new programs are added.
-
----
-Thank you for reviewing these Python projects!
