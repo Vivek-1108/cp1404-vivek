@@ -81,9 +81,6 @@ When you run the program, it will:
 - **FileNotFoundError**: Ensure both `programming_language.py` and `language_file_reader.py` are in the same directory.
 - **Python Version Issues**: Ensure you are using Python 3.x.
 
-## License
-
-This project is released under the MIT License.
 
 ## Author
 
