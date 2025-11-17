@@ -1,7 +1,6 @@
 # Practical 05 - Dictionaries and Code Reviews with PRs
 
 **Author**: Vivek Dobariya  
-**Date**: 14 March 2025  
 
 ## Overview
 This repository contains solutions for Practical 05, which focuses on:
