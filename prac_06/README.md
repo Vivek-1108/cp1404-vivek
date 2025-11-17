@@ -1,6 +1,6 @@
 # Practical 06
 **Author:** Vivek Dobariya  
-**Date:** 19th March 2025  
+
 
 ## Overview
 Practical 06 focused on implementing and testing the concept of classes in Python. It was an excellent opportunity to deepen my understanding of object-oriented programming (OOP) principles, such as encapsulation, inheritance, and polymorphism. Through this practical, I worked on creating multiple classes, managing relationships between objects, and testing their functionality.
