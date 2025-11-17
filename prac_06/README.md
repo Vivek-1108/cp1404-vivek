@@ -33,5 +33,4 @@ This practical was highly beneficial in strengthening my understanding of object
 
 ---
 **Signed:** Vivek Dobariya  
-**Date:** 19th March 2025
 in a few seconds
