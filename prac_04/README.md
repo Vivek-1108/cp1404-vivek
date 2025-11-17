@@ -3,7 +3,6 @@ README.
 # Python Code Projects
 
 Author: Vivek Dobariya  
-Date: March 9, 2025  
 
 This repository contains a collection of Python programs designed to demonstrate various programming concepts, including list operations, file handling, user input, and random number generation. Each program is explained below with its purpose and usage instructions.
 
